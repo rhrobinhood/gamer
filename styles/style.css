@@ -1,0 +1,28 @@
+body{
+    margin: 0 auto;
+}
+
+.nav-container{
+    border: 2px solid green;
+    margin: 0 auto;
+}
+.container-one{
+    border: 2px solid green;
+    margin: 0 auto;
+    width: 1200px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.container-one img{
+    margin-left: 20px;
+    width: 60px;
+    height: 30px;
+}
+.container-one h1{
+    font-family: 600;
+    font-size: 2rem;
+}
+.span{
+    color: rgba(255, 66, 165, 1.00);
+}
